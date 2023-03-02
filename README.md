@@ -1,5 +1,3 @@
-# Snake_Game_C
-
 This is a snake game which is developed by the help of c programming
 language.
 Use arrow keys to move the snake, you will be provided foods at the
